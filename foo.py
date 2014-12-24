@@ -8,3 +8,6 @@
 # and, another change by wing
 
 # new updates from the web
+
+# New update by wing!
+foo = 23
