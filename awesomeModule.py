@@ -1,4 +1,6 @@
 # This module is full of awesome
 
-def main():
-    return True
+def main(argA):
+    # Made some changes in here
+
+    return argA *2
